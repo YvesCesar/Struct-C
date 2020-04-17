@@ -6,3 +6,5 @@ Uma Estrutura é um agrupamento de diversas variáveis distintas sob um nome com
 </p>
 
 
+
+
